@@ -1,4 +1,4 @@
-English / [Spanish](https://github.com/ericsaza/User-Finder-using-Github-API/blob/main/README_es.md)
+English / [Spanish](https://github.com/ericsaza/User-Finder-using-Github-API/blob/main/README_Es.md)
 # User-Finder-using-Github-API
 Web page where you can see Github profiles with their username.
 
